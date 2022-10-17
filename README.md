@@ -1,5 +1,10 @@
 # Electron Builder Action
 
+*NOTICE*
+# This action is based on [samuelmeuli/action-electron-builder](https://github.com/samuelmeuli/action-electron-builder).
+I published this package for individual case. I recommend use origin action before use this action. 
+It can cause exceptions.
+
 **GitHub Action for building and releasing Electron apps**
 
 This is a GitHub Action for automatically building and releasing your Electron app using GitHub's CI/CD capabilities. It uses [`electron-builder`](https://github.com/electron-userland/electron-builder) to package your app and release it to a platform like GitHub Releases.
